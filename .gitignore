@@ -1,0 +1,5 @@
+# ignore artifacts from MacOS
+**/.DS_Store
+
+# ignore pyright configuration file
+**/pyrightconfig.json
